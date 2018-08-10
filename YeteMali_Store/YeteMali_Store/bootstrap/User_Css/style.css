@@ -1,0 +1,32 @@
+#navbar{
+	background-color: #ffb752;
+}
+#sidebar{
+	background-color: #2e8965;
+    /*margin-top:-8px;*/
+    
+}
+#sideleft{
+	background-color:  #2e8965;
+}
+.nav-list{
+	background-color:  #2e8965;
+}
+.panel-heading{
+background-color: #ffb752;
+}
+#main-container{
+	padding-top: 0px;
+}
+.supp{
+	background-color: #ee3845;
+}
+.sup{
+	background-color: #ee3845;
+}
+.text-center{
+	text-decoration-color: white;
+}
+.couleur{
+	background-color: #f65674;
+}

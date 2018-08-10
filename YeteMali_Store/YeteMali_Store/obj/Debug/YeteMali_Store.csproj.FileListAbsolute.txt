@@ -1,0 +1,5 @@
+c:\users\daouda sahid camara\documents\visual studio 2012\Projects\YeteMali_Store\YeteMali_Store\bin\YeteMali_Store.dll
+c:\users\daouda sahid camara\documents\visual studio 2012\Projects\YeteMali_Store\YeteMali_Store\bin\YeteMali_Store.pdb
+c:\users\daouda sahid camara\documents\visual studio 2012\Projects\YeteMali_Store\YeteMali_Store\obj\Debug\YeteMali_Store.csprojResolveAssemblyReference.cache
+c:\users\daouda sahid camara\documents\visual studio 2012\Projects\YeteMali_Store\YeteMali_Store\obj\Debug\YeteMali_Store.dll
+c:\users\daouda sahid camara\documents\visual studio 2012\Projects\YeteMali_Store\YeteMali_Store\obj\Debug\YeteMali_Store.pdb
